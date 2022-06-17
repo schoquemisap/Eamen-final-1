@@ -1,0 +1,8 @@
+.CartaA1{
+    background-image: url("../images/Rectangle.png");
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 20px;
+    position: relative;
+    padding-bottom: 30px;
+}

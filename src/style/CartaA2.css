@@ -1,0 +1,27 @@
+.cartaA2{
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    width: 95%;
+    margin: 0 auto;
+}
+.cartaA2_img {
+    width: 40%;
+}
+.desc{
+    padding: 0px 190px;
+    font-weight: 500;
+}
+.CartaA2_2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 300px;
+}
+.cartaA2_img2{
+    width: 15%;
+}
+.cartaA2_img3{
+    width: 15%;
+}
