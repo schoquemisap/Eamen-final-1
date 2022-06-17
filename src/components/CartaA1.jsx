@@ -9,7 +9,7 @@ function CartaA1(props) {
   const img2 = fond
   return (
     <div className="CartaA1">
-      <div className="maleta">
+      <div className="cartaA1">
           <img src={Sra} className="sra" alt="" /> 
       </div> 
 

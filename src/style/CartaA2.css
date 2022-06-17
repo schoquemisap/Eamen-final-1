@@ -4,8 +4,10 @@
     position: relative;
     padding-bottom: 30px;
     padding-top: 30px;
-    width: 95%;
+    width: 94%;
     margin: 0 auto;
+    overflow: hidden;
+    
 }
 .cartaA2_img {
     width: 40%;
@@ -17,7 +19,7 @@
 .CartaA2_2{
     display: flex;
     justify-content: space-evenly;
-    padding: 0px 300px;
+    padding: 0px 200px;
 }
 .cartaA2_img2{
     width: 15%;
